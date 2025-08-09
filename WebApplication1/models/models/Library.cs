@@ -22,7 +22,7 @@ namespace WebApplication1.Models
         public int Id
         {
             get => _id;
-            protected set => _id = value;
+            set => _id = value;
         }
 
         public string Title

@@ -18,7 +18,6 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-app.UseHttpsRedirection();
 app.UseAuthorization(); // This line is crucial for enabling authorization in your app.
 
 // This line maps the routes from all your controllers.

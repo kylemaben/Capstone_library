@@ -1,6 +1,0 @@
-C:\Users\Kyle\Capstone_library\WebApplication1\capstone_library.Tests\obj\Debug\net9.0\capstone_library.Tests.csproj.AssemblyReference.cache
-C:\Users\Kyle\Capstone_library\WebApplication1\capstone_library.Tests\obj\Debug\net9.0\capstone_library.Tests.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Kyle\Capstone_library\WebApplication1\capstone_library.Tests\obj\Debug\net9.0\capstone_library.Tests.AssemblyInfoInputs.cache
-C:\Users\Kyle\Capstone_library\WebApplication1\capstone_library.Tests\obj\Debug\net9.0\capstone_library.Tests.AssemblyInfo.cs
-C:\Users\Kyle\Capstone_library\WebApplication1\capstone_library.Tests\obj\Debug\net9.0\capstone_library.Tests.csproj.CoreCompileInputs.cache
-C:\Users\Kyle\Capstone_library\WebApplication1\capstone_library.Tests\obj\Debug\net9.0\capstone_library.Tests.sourcelink.json

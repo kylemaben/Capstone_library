@@ -23,12 +23,3 @@ namespace WebApplication1.Controllers
         }
     }
 }
-// ReturnRequest.cs (This should be placed in your Models folder)
-namespace WebApplication1.Models
-{
-    public class ReturnRequest
-    {
-        public int BookId { get; set; }
-        public int UserId { get; set; }
-    }
-}
